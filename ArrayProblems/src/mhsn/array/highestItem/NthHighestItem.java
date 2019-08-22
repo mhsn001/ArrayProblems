@@ -1,4 +1,4 @@
-package mhsn.array.heighestItem;
+package mhsn.array.highestItem;
 
 import java.util.PriorityQueue;
 
