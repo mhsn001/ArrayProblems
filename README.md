@@ -1,7 +1,7 @@
 # ArrayProblems
 
 ##  [src/mhsn/array/duplicateProblems/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/duplicateProblems)
-- **FindDuplicateItems.java:** Find duplicate items in an unsorted array where all elements are in the range of 1 to n where n is length of aray. 
+- **FindDuplicateItems.java:** Find duplicate items in an unsorted array where all elements are in the range of 1 to n where n is length of array. 
 - **RemoveDuplicateItems.java:** Remove duplecate items from unsorted array.
 
 ## [src/mhsn/array/findABC/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/findABC)
