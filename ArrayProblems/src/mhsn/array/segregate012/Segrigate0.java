@@ -3,11 +3,12 @@ package mhsn.array.segregate012;
 import mhsn.array.utils.ArrayUtils;
 
 /*You have been given an array of length n which contains 0, and non zero numbers
- * segregate these number in such a way that all 0's shifted in the edn of the array.
+ * segregate these number in such a way that all 0's shifted in the end of the array.
  * 
  * Example: 
  *  Input : 0, 0, 1, 2, 0, 3, 0, 0, 4
  *  Output: 1, 2, 3, 4, 0, 0, 0, 0, 0
+ *  
  *  
  * */
 public class Segrigate0{
