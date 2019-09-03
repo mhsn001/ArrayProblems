@@ -19,8 +19,12 @@
 ## [src/mhsn/array/maxSum/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/maxSum)
 - **MaxSumSubArray.java:** Find out a sub array whose sum of the elements is highest.
 
+## [src/mhsn/array/rotation/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/rotation)
+- **LeftRotationUsingRecursion.java:** Left rotation of the array using recursion. 
+
 ## [src/mhsn/array/segregate012/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/segregate012)
 - **Segrigate_0_1_2.java:** Given an array which contains only 0's, 1's and 2's as elements. Segregate these numbers in such a way that all 0's come first then all 1's and then all 2's.
+- **Segrigate0.java:** Segregate only 0's from a given array.
 
 ## [src/mhsn/array/utils/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/utils)
 - **ArrayUtils.java:** Array utility class.
