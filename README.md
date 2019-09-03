@@ -1,8 +1,8 @@
 # ArrayProblems
 
 ##  [src/mhsn/array/duplicateProblems/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/duplicateProblems)
-- **FindDuplicateItems.java:** Find duplicate items in an unsorted array where all elements are in the range of 1 to n where n is length of array. 
-- **RemoveDuplicateItems.java:** Remove duplecate items from sorted array.
+- **FindDuplicateItems.java:** Find duplicate items in an unsorted array where all elements are in the range of 1 to n where n is length of array with time complexity O(n) and space complexity O(1).
+- **RemoveDuplicateItems.java:** Remove duplecate items from sorted array with time complexity O(n)
 
 ## [src/mhsn/array/findABC/](https://github.com/mhsn001/ArrayProblems/tree/master/ArrayProblems/src/mhsn/array/findABC)
 - **ABCFinder.java:** Find out elements a, b and c from an unsorted array which satisfy the equation a + b = c.
